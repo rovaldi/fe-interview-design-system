@@ -9,8 +9,7 @@ const meta = {
     layout: 'padded',
     docs: {
       description: {
-        component:
-          'A versatile and accessible tabs component and multiple variants.',
+        component: 'A versatile and accessible tabs component and multiple variants.',
       },
     },
   },
